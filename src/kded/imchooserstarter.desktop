@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Service
+Name=Input Method Starter
+ServiceTypes=KDEDModule
+X-KDE-ServiceTypes=KDEDModule
+X-KDE-Library=imchooserstarter
+X-KDE-FactoryName=imchooserstarter
+X-KDE-DBus-ModuleName=imchooserstarter
+X-KDE-Kded-load-on-demand=false
+X-KDE-Kded-autoload=true
+Comment=Start Input Method
+ 
